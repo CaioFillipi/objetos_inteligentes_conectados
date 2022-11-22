@@ -1,4 +1,4 @@
-# Objetos Intelegentes Conectados 
+# Objetos Inteligentes Conectados 
 Repositório contendo o projeto Arduino.
 
 O projeto tem como intuito o desenvolvimento de um alimentador automático para peixes utilizando Arduino e o protocolo MQTT para comunicação web. O projeto possui dois tipos de acionamento, um automático que é realizado a cada 8 horas e um comandado que pode ser acessado via interface web e realizar o acionamento do motor por algum dispositivo via web. O repositório possui uma imagem com o esquema de montagem do projeto.
